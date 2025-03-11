@@ -1,4 +1,4 @@
-//import _ from 'lodash';
-import { shout } from './src/index.js';
+// import _ from 'lodash';
+import shout from './src/index.js';
 
 shout();
